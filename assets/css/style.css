@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
 }
-#skills_1 a, #skills_2 a {
+#skills div a {
   margin: 5px 10px;
 }
 @media (min-width: 1024px) {
